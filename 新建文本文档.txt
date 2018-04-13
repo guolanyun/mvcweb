@@ -1,0 +1,2 @@
+前台：http://wui1711gly.duapp.com/php/mvcweb/index.php
+后台：http://wui1711gly.duapp.com/php/mvcweb/index.php?m=admin
